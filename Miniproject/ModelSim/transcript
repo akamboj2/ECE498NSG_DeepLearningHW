@@ -1,0 +1,15 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile {C:/Users/Abhi Kamboj/Desktop/ECE 498 DL in HW/Miniproject/ModelSim/predictor.sv}
+vsim work.testbench
+# vsim work.testbench 
+# Start time: 19:03:06 on Dec 05,2020
+# Loading sv_std.std
+# Loading work.testbench
+# Loading work.predictor
+# Loading work.register
+# Loading work.multiply
+# Loading work.add
+# ** Warning: (vsim-3015) C:/Users/Abhi Kamboj/Desktop/ECE 498 DL in HW/Miniproject/ModelSim/predictor.sv(31): [PCDPC] - Port size (9) does not match connection size (32) for port 'a'. The port definition is at: C:/Users/Abhi Kamboj/Desktop/ECE 498 DL in HW/Miniproject/ModelSim/predictor.sv(52).
+#    Time: 0 ns  Iteration: 0  Instance: /testbench/p/aerr File: C:/Users/Abhi Kamboj/Desktop/ECE 498 DL in HW/Miniproject/ModelSim/predictor.sv
+# End time: 03:10:06 on Dec 08,2020, Elapsed time: 56:07:00
+# Errors: 0, Warnings: 1
